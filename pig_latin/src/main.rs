@@ -1,5 +1,5 @@
 fn main() {
-    let mut text = String::from("a string that must be convert");
+    let text = String::from("a string that must be convert");
     let vowels = vec!['a', 'e', 'i', 'o', 'u'];
 
     let mut new_text = String::from("");
